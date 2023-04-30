@@ -76,14 +76,14 @@
 
   (f) The adjacency matrix representation of the digraph is:
 
-    M N O P Q R S
-  M 0 0 1 0 0 0 1
-  N 0 0 1 0 1 0 1
-  O 1 1 0 0 0 0 0
-  P 1 0 0 0 0 1 0
-  Q 0 0 0 0 0 0 0
-  R 0 0 0 1 0 0 0
-  S 1 1 0 0 0 0 0
+     M N O P Q R S
+   M 0 0 1 0 0 0 1
+   N 0 0 1 0 1 0 1
+   O 1 1 0 0 0 0 0
+   P 1 0 0 0 0 1 0
+   Q 0 0 0 0 0 0 0
+   R 0 0 0 1 0 0 0
+   S 1 1 0 0 0 0 0
 
 7.Draw the undirected and directed versions of the graph G(V, E), where V = {1, 2, 3, 4, 5, 6} and E = {(2, 5), (6, 1), (5, 3), (2, 3)}.
 
